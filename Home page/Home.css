@@ -64,4 +64,14 @@ body {margin: 0;
       height: 50px;
    
     }
+    .topnav input[type=text] {
+      border: 1px solid #ccc;
+    }
+    .topnav-centered a {
+      position: relative;
+      top: 0;
+      left: 0;
+      transform: none;
+    }
+  }
   
