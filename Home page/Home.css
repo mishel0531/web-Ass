@@ -14,3 +14,42 @@ body {margin: 0;
     top: 0;
     width: 100%;
   }
+
+  li {
+    float:left;
+  }
+  
+  li a {
+    display:block;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    padding: 18px 16px;
+    text-decoration:none;
+  }
+  
+  li a:hover{
+    background-color: #cbe0e9;
+    
+  }
+  .img1{
+  
+    margin-bottom: 0px;
+  
+  }
+  .topnav-centered a {
+    float: none;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+  
+  .topnav input[type=text] {
+    float: right;
+    padding: 6px;
+    border: none;
+    margin-top: 8px;
+    margin-right: 16px;
+    font-size: 17px;
+  
+  }
