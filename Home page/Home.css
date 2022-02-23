@@ -300,5 +300,18 @@ body {margin: 0;
       .form-inline label {
         margin: 5px 10px 5px 0;
       }
+      .form-inline input {
+        font-weight: bolder;
+        font-size: 1em;
+        margin-top: 2%;
+        margin-left: 30%;
+        width: 40%;
+        vertical-align: middle;
+        font-family:  sans-serif;
+        color: #4a4a4a;
+        padding: 10px;
+        background-color: #fff;
+        border: 1px solid #ddd;
+      }
 
 
