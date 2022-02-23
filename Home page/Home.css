@@ -273,3 +273,19 @@ body {margin: 0;
       display: inline-block;
       background-color: #e1eff2;
     }
+    .div16 {
+      background-color:#e1eff2;
+      float:right;
+      margin-left:0%;
+      width: 100%;
+      padding-right:5px;
+      max-width: 100%;
+      height: auto;
+      height: 150px;
+      font-family:  sans-serif;
+      color: #4a4a4a;
+      font-size: .7em;
+      font-weight: lighter;
+    }      
+
+
