@@ -164,3 +164,22 @@ body {margin: 0;
     height: auto;
     height: 250px;
   }
+  .div6 {
+    background-color:#e1eff2;
+    float:left;
+    margin-left:0%;
+    width: 509px;
+    padding-right:5px;
+    max-width: 100%;
+    height: auto;
+    height: 250px;
+  }.div7 {
+    background-color:#e1eff2;
+    float:right;
+    margin-left:0%;
+    width: 505px;
+    padding-right:5px;
+    max-width: 100%;
+    height: auto;
+    height: 250px;
+  }
