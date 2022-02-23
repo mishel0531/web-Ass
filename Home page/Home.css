@@ -219,4 +219,23 @@ body {margin: 0;
       max-width: 100%;
       height: auto;
       height: 10px;
-    }  
+    }
+    .div12 {
+      background-color:#ffffff;
+      float:left;
+      margin-left:0%;
+      width: 75%;
+      padding-right:5px;
+      max-width: 100%;
+      height: auto;
+      height: 350px;
+    }.div13 {
+      background-color:#ffffff;
+      float:right;
+      margin-right: 0%;
+      margin-left:0%;
+      width: 25%;
+      padding-right:5px;
+      max-width: 100%;
+      height: auto;
+      height: 350px;  
