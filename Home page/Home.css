@@ -297,5 +297,8 @@ body {margin: 0;
         flex-flow: row wrap;
         align-items: center;
       }
+      .form-inline label {
+        margin: 5px 10px 5px 0;
+      }
 
 
