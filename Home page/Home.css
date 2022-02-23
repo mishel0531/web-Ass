@@ -287,5 +287,10 @@ body {margin: 0;
       font-size: .7em;
       font-weight: lighter;
     }      
+    img{max-width: 100%;
+      max-height: auto;}
+      /*start*/
+      body f{font-family: Arial, Helvetica, sans-serif;}
+      * {box-sizing: border-box;}
 
 
