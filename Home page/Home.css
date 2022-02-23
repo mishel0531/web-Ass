@@ -182,4 +182,23 @@ body {margin: 0;
     max-width: 100%;
     height: auto;
     height: 250px;
-  }
+    .div8 {
+      background-color:#ffffff;
+      float:right;
+      margin-left:0%;
+      width: 1515px;
+      padding-right:5px;
+      max-width: 100%;
+      height: auto;
+      height: 100px;
+    }
+    .div9 {
+      background-color:#ffffff;
+      float:left;
+      margin-left:0%;
+      width: 50%;
+      padding-right:5px;
+      max-width: 100%;
+      height: auto;
+      height: 500px;
+      
