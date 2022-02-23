@@ -326,6 +326,13 @@ body {margin: 0;
       }
       .form-inline button:hover {
         background-color: #333232;
+        }
+        @media (max-width: 800px) {
+          .form-inline input {
+            margin: 10px 0;
+          }
       }
+      
+
 
 
