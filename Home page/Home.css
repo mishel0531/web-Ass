@@ -259,3 +259,9 @@ body {margin: 0;
       height: auto;
       height: 450px;
     }
+    .outer-div {
+      width: 100%;
+      text-align: center;
+      background-color: #ffffff;
+     
+    }
