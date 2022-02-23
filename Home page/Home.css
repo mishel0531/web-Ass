@@ -248,3 +248,14 @@ body {margin: 0;
       max-width: 100%;
       height: auto;
       height: 450px;  
+    }.div15 {
+      background-color:#ffffff;
+      float:right;
+      margin-right: 0%;
+      margin-left:0%;
+      width: 65%;
+      padding-right:5px;
+      max-width: 100%;
+      height: auto;
+      height: 450px;
+    }
