@@ -292,5 +292,10 @@ body {margin: 0;
       /*start*/
       body f{font-family: Arial, Helvetica, sans-serif;}
       * {box-sizing: border-box;}
+      .form-inline {  
+        display: flex;
+        flex-flow: row wrap;
+        align-items: center;
+      }
 
 
