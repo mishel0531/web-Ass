@@ -265,3 +265,11 @@ body {margin: 0;
       background-color: #ffffff;
      
     }
+    .inner-div {
+      width: 80%;
+      margin-top: 50px;
+      margin-bottom: 50px;
+      height: 500px;
+      display: inline-block;
+      background-color: #e1eff2;
+    }
