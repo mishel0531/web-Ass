@@ -331,6 +331,13 @@ body {margin: 0;
           .form-inline input {
             margin: 10px 0;
           }
+          .form-inline {
+            flex-direction: column;
+            align-items: stretch;
+          }
+        
+          
+
       }
       
 
