@@ -201,4 +201,22 @@ body {margin: 0;
       max-width: 100%;
       height: auto;
       height: 500px;
-      
+    }.div10 {
+      background-color:#ffffff;
+      float:right;
+      margin-left:0%;
+      width: 50%;
+      padding-right:5px;
+      max-width: 100%;
+      height: auto;
+      height: 500px;
+    }.div11 {
+      background-color:#e1eff2;
+      float:right;
+      margin-left:0%;
+      width: 100%;
+      padding-right:5px;
+      max-width: 100%;
+      height: auto;
+      height: 10px;
+    }  
