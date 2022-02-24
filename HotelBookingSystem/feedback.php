@@ -17,7 +17,6 @@ if($architect_results->num_rows>0){
     echo "No Results";
 }
 
-
 ?>
 
 <!DOCTYPE html>
@@ -37,6 +36,7 @@ if($architect_results->num_rows>0){
   color: grey;
   font-size: 18px;
 }
+
 
 button {
   border: none;
