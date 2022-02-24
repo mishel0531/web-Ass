@@ -3,6 +3,7 @@
     $username = "phpmyadmin";
     $password = "phpmyadmin";
     $dbname = "hotel_booking_system";
+
     
     // Create connection
     $conn = new mysqli($servername, $username, $password, $dbname);
