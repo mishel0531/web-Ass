@@ -21,7 +21,6 @@ body {
 	color: #fff;
 }
 
-
 .form-box {
       
 	background-color: rgba(0, 0, 0, 0.65);
