@@ -13,8 +13,7 @@ if($result->num_rows>0){
     $row = $result->fetch_assoc();
 }else{
     echo "No Results";
-}
-
+} 
 $bookings_sql = "SELECT * FROM bookings WHERE Architect_ID = '$architect_id'";
 $bookings_sql_results = $conn->query($bookings_sql);
 ?>
