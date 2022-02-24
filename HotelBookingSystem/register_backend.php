@@ -6,7 +6,8 @@ $sql = "SELECT ID, Email, Password FROM login_credentials WHERE Email = '$email_
     $result = $conn->query($sql);
     if($result->num_rows>0){
         header("Location: register.php?message1=This Email address has already been used. Please use a different Email.");
-    }else{
+    }
+else{
         $sql = "INSERT INTO login_credentials (Email, Password)
         VALUES ('$email_address', '$password')";
 
